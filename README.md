@@ -1,4 +1,6 @@
 # Projeto React.js - fourFoodA
+![image](https://github.com/EricaInaciadeLima/Silveira-labe-food3/assets/98967783/62be7bfd-8cdc-406a-bc09-0dd8ebe8fba5)
+
 
 Este é um projeto React.js chamado fourFoodA, que utiliza styled-components, axios, Material-UI e MUI Icons para criar um aplicativo de pedidos de comida.
 
